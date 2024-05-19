@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\bin\Debug\net8.0\DataBase.deps.json
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\bin\Debug\net8.0\DataBase.runtimeconfig.json
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\bin\Debug\net8.0\DataBase.dll
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\bin\Debug\net8.0\DataBase.pdb
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.dll
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\refint\DataBase.dll
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.pdb
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\DataBase.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\NeoGym-Project\DataBase\obj\Debug\net8.0\ref\DataBase.dll
