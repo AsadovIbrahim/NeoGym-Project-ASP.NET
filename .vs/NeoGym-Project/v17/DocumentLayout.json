@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|solutionrelative:neogym-project\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90D39B55-6E1C-4204-BA45-248C284B2EF0}|NeoGym-Project\\NeoGym-Project.csproj|c:\\users\\asus\\source\\repos\\neogym-project\\neogym-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,20 +57,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NeoGym-Project\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NeoGym-Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T11:39:55.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "NeoGym-Project\\ViewModels\\RegisterVM.cs",
@@ -78,18 +78,17 @@
               "RelativeToolTip": "NeoGym-Project\\ViewModels\\RegisterVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T09:51:53.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:51:53.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "NeoGym-Project\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "NeoGym-Project\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T10:51:14.477Z",
               "EditorCaption": ""
@@ -104,8 +103,7 @@
               "RelativeToolTip": "NeoGym-Project\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T10:41:31.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T10:41:31.488Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "NeoGym-Project\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T09:55:14.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:55:14.561Z"
             },
             {
               "$type": "Document",
@@ -142,12 +139,11 @@
               "RelativeToolTip": "NeoGym-Project\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAE0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T09:49:22.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:49:22.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\NeoGym-Project\\NeoGym-Project\\Controllers\\Account\\AccountController.cs",
               "RelativeDocumentMoniker": "NeoGym-Project\\Controllers\\Account\\AccountController.cs",
