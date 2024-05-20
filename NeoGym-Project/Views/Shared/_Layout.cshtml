@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@model LoginVM
+
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -59,6 +61,29 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.html"> Contact Us</a>
                                 </li>
+                                @if (User.Identity!.IsAuthenticated)
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link">@User.Identity.Name</a      
+                                    </li> 
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-action="Logout" asp-controller="Account">Logout</a >     
+                                    </li>
+                                }
+                                else
+                                {
+                              <li class="nav-item">
+                            <a class="nav-link" asp-action="Login" asp-controller="Account"
+                              >Login</a
+                            >
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link"asp-action="Register" asp-controller="Account"
+                              >Register</a
+                            >
+                          </li>
+                          }
+
                             </ul>
                             <div class="user_option">
                                 <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
