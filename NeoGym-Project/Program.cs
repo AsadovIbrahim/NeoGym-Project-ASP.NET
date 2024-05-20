@@ -1,6 +1,8 @@
 using DataBase.Contexts;
+using DataBase.Entities.Concretes;
 using DataBase.Repositories.Abstracts;
 using DataBase.Repositories.Concretes;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace NeoGym_Project
@@ -13,6 +15,9 @@ namespace NeoGym_Project
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+
             builder.Services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("default"));

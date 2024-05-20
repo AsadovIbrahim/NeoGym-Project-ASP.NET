@@ -30128,6 +30128,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\NeoGym-Project.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\05d0de5e-4cd6-417a-96cc-b08524da2e61WIN_20231128_12_45_09_Pro.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/05d0de5e-4cd6-417a-96cc-b08524da2e61WIN_20231128_12_45_09_Pro.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\05d0de5e-4cd6-417a-96cc-b08524da2e61WIN_20231128_12_45_09_Pro.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\2a7bdab3-3d41-4f6b-9472-c1ba68436314WIN_20231128_12_45_51_Pro.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>NeoGym-Project</SourceId>
@@ -30160,6 +30176,70 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\3ac4babc-61ef-4d8d-a043-27f589082cb4WIN_20231128_12_45_51_Pro.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\569177b0-3f3f-48b0-bdab-13c1aacbfcf0Advertising-1.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/569177b0-3f3f-48b0-bdab-13c1aacbfcf0Advertising-1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\569177b0-3f3f-48b0-bdab-13c1aacbfcf0Advertising-1.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\ae5c90cf-e577-4524-a19f-fe499530e984WIN_20231128_13_03_50_Pro.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/ae5c90cf-e577-4524-a19f-fe499530e984WIN_20231128_13_03_50_Pro.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\ae5c90cf-e577-4524-a19f-fe499530e984WIN_20231128_13_03_50_Pro.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\bf2db702-9d57-4098-89de-78407a8379b9alaska-city-widget.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/bf2db702-9d57-4098-89de-78407a8379b9alaska-city-widget.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\bf2db702-9d57-4098-89de-78407a8379b9alaska-city-widget.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\d828b8bc-0c2f-45b5-92c6-2110a43076bcWIN_20240330_20_06_33_Pro.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/d828b8bc-0c2f-45b5-92c6-2110a43076bcWIN_20240330_20_06_33_Pro.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\d828b8bc-0c2f-45b5-92c6-2110a43076bcWIN_20240330_20_06_33_Pro.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\e020cc3a-1b8d-48ab-aacb-9c3700c582afWIN_20240330_20_06_27_Pro.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>NeoGym-Project</SourceId>
@@ -30175,6 +30255,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\e020cc3a-1b8d-48ab-aacb-9c3700c582afWIN_20240330_20_06_27_Pro.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\e118a598-e9a1-4213-953a-baf3c65107c9WIN_20231128_12_45_09_Pro.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NeoGym-Project</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NeoGym-Project</BasePath>
+      <RelativePath>Upload/manage/e118a598-e9a1-4213-953a-baf3c65107c9WIN_20231128_12_45_09_Pro.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\manage\e118a598-e9a1-4213-953a-baf3c65107c9WIN_20231128_12_45_09_Pro.jpg))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

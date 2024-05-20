@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeoGym-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e27d6ee886315440c6a062d57e3bdd89cf6e83c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeoGym-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeoGym-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
